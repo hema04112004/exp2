@@ -1,0 +1,48 @@
+
+.split{
+    height:100%;
+    width:50%;
+    position: fixed;
+    z-index: 1;
+    overflow-x:hidden;
+    padding:10px;
+    background-color: #0b4251;
+
+}
+.centered{
+    text-decoration: none;
+}
+.left{
+    
+    left: 0;
+    text-align: justify;
+    overflow-y: auto; 
+    top:0;
+    height: 100%;
+    width: 20%;
+    color:white;
+
+}
+.Design{
+    text-decoration:none;
+    color:white;
+}
+
+.right{
+    background-color: #87bbd7;
+    right: 0; 
+    text-align: left;
+    width: 80%;
+    overflow-y: auto; 
+    top: 0; 
+    height: 100%; 
+    box-sizing: border-box;
+    
+}
+
+.centered img{
+    margin-top:20px;
+    border-radius: 60%;
+    width:150px;
+    
+}
